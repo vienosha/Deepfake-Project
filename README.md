@@ -1,2 +1,2 @@
 # Deepfake-Project
-An API-based system for detecting and classifying deepfake media using CNN-powered machine learning.
+A project focused on detecting and classifying deepfake images and videos using advanced machine learning and convolutional neural network (CNN) techniques, aiming to enhance digital forensics and media authenticity verification.
